@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tx36Knnx3XagiwMY94p+R0Nc2An0ipquAx/nK9LmSGc=",
+  "Source": "Sample_CRUD_Operations_on_Student",
+  "BasePath": "_content/Sample_CRUD_Operations_on_Student",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

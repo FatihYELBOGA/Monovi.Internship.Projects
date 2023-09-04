@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sample_CRUD_Operations_on_Student_and_Courses.props" />
+</Project>

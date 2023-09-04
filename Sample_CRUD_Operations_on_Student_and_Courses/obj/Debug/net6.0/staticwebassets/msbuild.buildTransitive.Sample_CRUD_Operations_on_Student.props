@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sample_CRUD_Operations_on_Student.props" />
+</Project>
